@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="2"tvg-name="NPY" tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png ", NPY PY
+https://tigocloudtf.desdeparaguay.net/npy/npy_py_alta/chunklist_w862711102.m3u8?k=6c76267b779b484b8b3669b68474ef8044018b21fb34d0fa93b7eed860f3a204&exp=1657293663
+
 #EXTINF:-1 tvg-id="8" tvg-name="Unicanal" tvg-logo="https://lh3.googleusercontent.com/-RjyvLZJ0ed4/YH44rJhzBEI/AAAAAAABBxA/BYT7vltKAgsulzaQkdoAg8KadCOWEXHZwCK8BGAsYHg/s512/2021-04-19.jpg", Unicanal | PY
 http://45.55.127.106/live/unicanal.m3u8?PlaylistM3UCL
 
@@ -8,8 +12,25 @@ https://d4xunn272arip.cloudfront.net/hls/snt_360.m3u8
 #EXTINF:-1 tvg-id="4"tvg-name="Telefuturo"  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Telefuturo-en-vivo-Online.png", Telefuturo PY
 https://tigocloudtf.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w1438840491.m3u8?k=a0a033d5c9d2e4c8eb64b7254315c2d3e482deab3dd14d6af5687f1dd2eef16f&exp=1657246925
 
-#EXTINF:-1 tvg-id="13"tvg-name="RPC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png ", RPC3 PY
-https://stream.rpc.com.py/live/trece.m3u8
+#EXTINF:-1 tvg-id="13"tvg-name="RPC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png", RPC PY
+https://stream.rpc.com.py/live/trece_src.m3u8
 
-#EXTINF:-1 tvg-id="1"tvg-name="prueba" , PY
-https://tigocloudtf.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w1607221292.m3u8?k=b493848dfd35066a238997289ac50ce255f3132d42c8fd97a60a11a6022bb686&exp=1657247094|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A102.0)%20Gecko%2F20100101%20Firefox%2F102.0&Referer=https%3A%2F%2Fwww.desdepylabs.com%2F
+#EXTINF:-1 tvg-id="15"tvg-name="WOW TV"tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="16"tvg-name="Microvision",DOMINICAN REP:MicroVision
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="Undefined",ABC TV (720p)
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+
+#EXTINF:-1 tvg-id="7"tvg-name="C9n" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png", C9N PY
+https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
+
+
+#EXTINF:-1 tvg-id="11"tvg-name="La Tele" tvg-logo="https://w7.pngwing.com/pngs/438/860/png-transparent-logo-television-channel-paraguay-latele-paraguay-television-text-rectangle.png", La tele
+https://tigocloudtf.desdeparaguay.net/latele/latele_py_alta/chunklist_w1298039234.m3u8?k=5ce390e84d395e16dee0448be3245d5a03858640b3e6b5eebeeb884fcad8ddc0&exp=1657293654
+
+#EXTINF:-1 tvg-id="10"tvg-name="Paraguay TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png", PY Tv
+https://live-ak.vimeocdn.com/exp=1657297758~acl=%2F9fbc71ba-6cbd-4083-b421-db075d3c3cd6%2F%2A~hmac=3e6a8eab0450f0aa3d395bccc5594fd7fd31baf73b072aca3e7064ba1870922d/9fbc71ba-6cbd-4083-b421-db075d3c3cd6/chunklist_b3256000.m3u8?max_segments=10
